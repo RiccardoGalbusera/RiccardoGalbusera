@@ -3,7 +3,9 @@
 ## &#x1f4c8; GitHub Stats
 
 ![Reekee's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiccardoGalbusera&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiccardoGalbusera)](https://github.com/RiccardoGalbusera/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiccardoGalbusera)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=reekee)
+
 
 <!--
 **RiccardoGalbusera/RiccardoGalbusera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
