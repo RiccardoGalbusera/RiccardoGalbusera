@@ -1,4 +1,4 @@
-### Hi there 👋 This is a test to see my stats
+### Hi there 👋
 
 ## &#x1f4c8; GitHub Stats
 
